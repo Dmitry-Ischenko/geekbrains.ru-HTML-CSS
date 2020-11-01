@@ -56,6 +56,7 @@ body {
 }
 .formregistration input {
     /*width: 100;*/
+    text-transform:capitalize;
     height: 20;
     color: chocolate;
     font-size: 14;
